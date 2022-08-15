@@ -6,7 +6,7 @@ To play:
 2. Install requirements `pip install requirements.txt`
 3. Run `python alien_invasion.py`
 
-# High scores are  persisted across runs, but a simple mechanism can be added to save scores to a file and read from it.  
+/High scores are not persisted across runs, but a simple mechanism can be added to save scores to a file and read from it.  
 
 High Scores are not persistent across runs (😁)
 
